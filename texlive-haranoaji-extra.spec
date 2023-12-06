@@ -1,6 +1,6 @@
 Name:		texlive-haranoaji-extra
-Version:	62099
-Release:	2
+Version:	68500
+Release:	1
 Summary:	Harano Aji Fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/haranoaji-extra
