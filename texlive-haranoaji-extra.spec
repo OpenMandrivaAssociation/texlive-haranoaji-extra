@@ -3,7 +3,7 @@ Version:	68500
 Release:	1
 Summary:	Harano Aji Fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/haranoaji-extra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/haranoaji-extra
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/haranoaji-extra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/haranoaji-extra.doc.r%{version}.tar.xz
